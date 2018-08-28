@@ -6,7 +6,7 @@ A simple template app using Expo CLI to use as a springboard for Caked App
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/en/)
-- [Android Studio]() (if emulating Android)
+- [Android Studio](https://developer.android.com/studio/install) (if emulating Android)
 - [Xcode](https://developer.apple.com/xcode/) (in emulating iPhone - iOS only)
 - any modern JS IDE
 
